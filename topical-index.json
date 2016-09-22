@@ -65,6 +65,104 @@
           "Amplified Bible (AMP)": " "
         }
       }
+    },
+    "Assurance":{
+      "definition": "a positive declaration intended to give confidence; a promise.",
+      "scriptures":{
+        "Psalm 86:5-7": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Zephaniah 3:17": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Romans 5:5": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        }
+      }
+    },
+    "Belief":{
+      "definition": "an acceptance that a statement is true or that something exists.",
+      "scriptures":{
+        "Matthew 6:22": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "John 3:16": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "John 12:46": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "John 20:29": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Romans 8:5": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Romans 10:17": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "1 Corinthians 16:13": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "2 Corinthians 5:7": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Galatians 2:20": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Ephesians 2:8-9": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Colossians 1:15-17": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Hebrews 11:1": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Hebrews 11:3": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "Hebrews 11:6": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "James 1:3": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "James 2:14-17": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "1 Peter 1:7": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "2 Peter 1:5-7": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        },
+        "2 John 9": {
+          "The Message (MSG)": " ",
+          "Amplified Bible (AMP)": " "
+        }
+      }
     }
   }
 }
