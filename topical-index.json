@@ -166,13 +166,57 @@
 		},
 		"Change": {
 			"definition": {
-				"verb": "give way to anxiety or unease; allow one's mind to dwell on difficulty or troubles.",
-				"noun": "a state of anxiety and uncertainty over actual or potential problems."
+				"verb": ["make or become different", "take or use another insted of"],
+				"noun": ["the act or instance of making or becoming different.", "coins as opposed to paper currency."]
 			},
 			"scriptures": {
-				"Proverbs 12:25": {
-					"The Message (MSG)": " ",
-					"Amplified Bible (AMP)": " "
+				"Luke 12:50": {
+					"The Message (MSG)": "“I’ve come to start a fire on this earth—how I wish it were blazing right now! I’ve come to change everything, turn everything rightside up—how I long for it to be finished! Do you think I came to smooth things over and make everything nice? Not so. I’ve come to disrupt and confront! From now on, when you find five in a house, it will be— Three against two, and two against three; Father against son, and son against father; Mother against daughter, and daughter against mother; Mother-in-law against bride, and bride against mother-in-law.”",
+					"Amplified Bible (AMP)": "I have a baptism [of great suffering] with which to be baptized, and how [greatly] I am distressed until it is accomplished!"
+				},
+				"Luke 12:56": {
+					"The Message (MSG)": "Then he turned to the crowd: “When you see clouds coming in from the west, you say, ‘Storm’s coming’—and you’re right. And when the wind comes out of the south, you say, ‘This’ll be a hot one’—and you’re right. Frauds! You know how to tell a change in the weather, so don’t tell me you can’t tell a change in the season, the God-season we’re in right now.",
+					"Amplified Bible (AMP)": "You hypocrites (play-actors, pretenders)! You know how to analyze and intelligently interpret the appearance of the earth and sky [to forecast the weather], but why do you not intelligently interpret this present time?"
+				},
+				"Acts 3:19": {
+					"The Message (MSG)": "“Now it’s time to change your ways! Turn to face God so he can wipe away your sins, pour out showers of blessing to refresh you, and send you the Messiah he prepared for you, namely, Jesus. For the time being he must remain out of sight in heaven until everything is restored to order again just the way God, through the preaching of his holy prophets of old, said it would be. Moses, for instance, said, ‘Your God will raise up for you a prophet just like me from your family. Listen to every word he speaks to you. Every last living soul who refuses to listen to that prophet will be wiped out from the people.’",
+					"Amplified Bible (AMP)": "So repent [change your inner self—your old way of thinking, regret past sins] and return [to God—seek His purpose for your life], so that your sins may be wiped away [blotted out, completely erased], so that times of refreshing may come from the presence of the Lord [restoring you like a cool wind on a hot day];"
+				},
+				"Romans 2:4": {
+					"The Message (MSG)": "You didn’t think, did you, that just by pointing your finger at others you would distract God from seeing all your misdoings and from coming down on you hard? Or did you think that because he’s such a nice God, he’d let you off the hook? Better think this one through from the beginning. God is kind, but he’s not soft. In kindness he takes us firmly by the hand and leads us into a radical life-change.",
+					"Amplified Bible (AMP)": "Or do you have no regard for the wealth of His kindness and tolerance and patience [in withholding His wrath]? Are you [actually] unaware or ignorant [of the fact] that God’s kindness leads you to repentance [that is, to change your inner self, your old way of thinking—seek His purpose for your life]?"
+				},
+				"Romans 8:9-10": {
+					"The Message (MSG)": "But if God himself has taken up residence in your life, you can hardly be thinking more of yourself than of him. Anyone, of course, who has not welcomed this invisible but clearly present God, the Spirit of Christ, won’t know what we’re talking about. But for you who welcome him, in whom he dwells—even though you still experience all the limitations of sin—you yourself experience life on God’s terms. It stands to reason, doesn’t it, that if the alive-and-present God who raised Jesus from the dead moves into your life, he’ll do the same thing in you that he did in Jesus, bringing you alive to himself? When God lives and breathes in you (and he does, as surely as he did in Jesus), you are delivered from that dead life. With his Spirit living in you, your body will be as alive as Christ’s!",
+					"Amplified Bible (AMP)": "However, you are not [living] in the flesh [controlled by the sinful nature] but in the Spirit, if in fact the Spirit of God lives in you [directing and guiding you]. But if anyone does not have the Spirit of Christ, he does not belong to Him [and is not a child of God]. If Christ lives in you, though your [natural] body is dead because of sin, your spirit is alive because of righteousness [which He provides]."
+				},
+				"Romans 12:1-2": {
+					"The Message (MSG)": "So here’s what I want you to do, God helping you: Take your everyday, ordinary life—your sleeping, eating, going-to-work, and walking-around life—and place it before God as an offering. Embracing what God does for you is the best thing you can do for him. Don’t become so well-adjusted to your culture that you fit into it without even thinking. Instead, fix your attention on God. You’ll be changed from the inside out. Readily recognize what he wants from you, and quickly respond to it. Unlike the culture around you, always dragging you down to its level of immaturity, God brings the best out of you, develops well-formed maturity in you.",
+					"Amplified Bible (AMP)": "Therefore I urge you, brothers and sisters, by the mercies of God, to present your bodies [dedicating all of yourselves, set apart] as a living sacrifice, holy and well-pleasing to God, which is your rational (logical, intelligent) act of worship. And do not be conformed to this world [any longer with its superficial values and customs], but be transformed and progressively changed [as you mature spiritually] by the renewing of your mind [focusing on godly values and ethical attitudes], so that you may prove [for yourselves] what the will of God is, that which is good and acceptable and perfect [in His plan and purpose for you]."
+				},
+				"2 Corinthians 5:17": {
+					"The Message (MSG)": "Because of this decision we don’t evaluate people by what they have or how they look. We looked at the Messiah that way once and got it all wrong, as you know. We certainly don’t look at him that way anymore. Now we look inside, and what we see is that anyone united with the Messiah gets a fresh start, is created new. The old life is gone; a new life burgeons! Look at it! All this comes from the God who settled the relationship between us and him, and then called us to settle our relationships with each other. God put the world square with himself through the Messiah, giving the world a fresh start by offering forgiveness of sins. God has given us the task of telling everyone what he is doing. We’re Christ’s representatives. God uses us to persuade men and women to drop their differences and enter into God’s work of making things right between them. We’re speaking for Christ himself now: Become friends with God; he’s already a friend with you.",
+					"Amplified Bible (AMP)": "Therefore if anyone is in Christ [that is, grafted in, joined to Him by faith in Him as Savior], he is a new creature [reborn and renewed by the Holy Spirit]; the old things [the previous moral and spiritual condition] have passed away. Behold, new things have come [because spiritual awakening brings a new life]."
+				},
+				"Galatians 4:8-9": {
+					"The Message (MSG)": "Earlier, before you knew God personally, you were enslaved to so-called gods that had nothing of the divine about them. But now that you know the real God—or rather since God knows you—how can you possibly subject yourselves again to those paper tigers? For that is exactly what you do when you are intimidated into scrupulously observing all the traditions, taboos, and superstitions associated with special days and seasons and years. I am afraid that all my hard work among you has gone up in a puff of smoke!",
+					"Amplified Bible (AMP)": "But at that time, when you did not know [the true] God and were unacquainted with Him, you [Gentiles] were slaves to those [pagan] things which by [their very] nature were not and could not be gods at all. Now, however, since you have come to know [the true] God [through personal experience], or rather to be known by God, how is it that you are turning back again to the weak and worthless elemental principles [of religions and philosophies], to which you want to be enslaved all over again?"
+				},
+				"Titus 2:11-12": {
+					"The Message (MSG)": " God’s readiness to give and forgive is now public. Salvation’s available for everyone! We’re being shown how to turn our backs on a godless, indulgent life, and how to take on a God-filled, God-honoring life. This new life is starting right now, and is whetting our appetites for the glorious day when our great God and Savior, Jesus Christ, appears. He offered himself as a sacrifice to free us from a dark, rebellious life into this good, pure life, making us a people he can be proud of, energetic in goodness.",
+					"Amplified Bible (AMP)": "For the [remarkable, undeserved] grace of God that [a]brings salvation has appeared to all men. It teaches us to reject ungodliness and worldly (immoral) desires, and to live sensible, upright, and godly lives [lives with a purpose that reflect spiritual maturity] in this present age,"
+				},
+				"Hebrews 13:8": {
+					"The Message (MSG)": "Appreciate your pastoral leaders who gave you the Word of God. Take a good look at the way they live, and let their faithfulness instruct you, as well as their truthfulness. There should be a consistency that runs through us all. For Jesus doesn’t change—yesterday, today, tomorrow, he’s always totally himself.",
+					"Amplified Bible (AMP)": "Jesus Christ is [eternally changeless, always] the same yesterday and today and forever."
+				},
+				"1 Peter 1:22-23": {
+					"The Message (MSG)": "Now that you’ve cleaned up your lives by following the truth, love one another as if your lives depended on it. Your new life is not like your old life. Your old birth came from mortal sperm; your new birth comes from God’s living Word. Just think: a life conceived by God himself! That’s why the prophet said, The old life is a grass life, its beauty as short-lived as wildflowers; Grass dries up, flowers droop, God’s Word goes on and on forever. This is the Word that conceived the new life in you.",
+					"Amplified Bible (AMP)": "Since by your obedience to the truth you have purified yourselves for a sincere love of the believers, [see that you] love one another from the heart [always unselfishly seeking the best for one another], for you have been born again [that is, reborn from above—spiritually transformed, renewed, and set apart for His purpose] not of seed which is perishable but [from that which is] imperishable and immortal, that is, through the living and everlasting word of God."
+				},
+				"2 Peter 3:9": {
+					"The Message (MSG)": "Don’t overlook the obvious here, friends. With God, one day is as good as a thousand years, a thousand years as a day. God isn’t late with his promise as some measure lateness. He is restraining himself on account of you, holding back the End because he doesn’t want anyone lost. He’s giving everyone space and time to change.",
+					"Amplified Bible (AMP)": "The Lord does not delay [as though He were unable to act] and is not slow about His promise, as some count slowness, but is [extraordinarily] patient toward you, not wishing for any to perish but for all to come to repentance."
 				}
 			}
 		},
