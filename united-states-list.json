@@ -1,0 +1,354 @@
+{
+  "states":
+  [
+    {
+      "name":"Alabama",
+      "abbr":"AL",
+      "capital":"Montgomery",
+      "established": "Dec 14, 1819"
+    
+    },
+    {
+      "name":"Alaska",
+      "abbr":"AK",
+      "capital":"Juneau",
+      "established": "January 3, 1959"
+    
+    },
+    {
+      "name":"Arizona",
+      "abbr":"AZ",
+      "capital":"Phoenix",
+      "established": "February 14, 1912"
+    
+    },
+    {
+      "name":"Arkansas",
+      "abbr":"AR",
+      "capital":"Little Rock",
+      "established": "June 15, 1836"
+    
+    },
+    {
+      "name":"California",
+      "abbr":"CA",
+      "capital":"Sacramento",
+      "established": "September 9, 1850"
+    
+    },
+    {
+      "name":"Colorado",
+      "abbr":"CO",
+      "capital":"Denver",
+      "established": "August 1, 1876"
+    
+    },
+    {
+      "name":"Connecticut",
+      "abbr":"CT",
+      "capital":"Hartford",
+      "established": "January 9, 1788"
+    
+    },
+    {
+      "name":"Delaware",
+      "abbr":"DE",
+      "capital":"Dover",
+      "established": "December 7, 1787"
+    
+    },
+    {
+      "name":"Florida",
+      "abbr":"FL",
+      "capital":"Tallahassee",
+      "established": "March 3, 1845"
+    
+    },
+    {
+      "name":"Georgia",
+      "abbr":"GA",
+      "capital":"Atlanta",
+      "established": "January 2, 1788"
+    
+    },
+    {
+      "name":"Hawaii",
+      "abbr":"HI",
+      "capital":"Honolulu",
+      "established": "August 21, 1959"
+    
+    },
+    {
+      "name":"Idaho",
+      "abbr":"ID",
+      "capital":"Boise",
+      "established": "July 3, 1890"
+    
+    },
+    {
+      "name":"Illinois",
+      "abbr":"IL",
+      "capital":"Springfield",
+      "established": "December 3, 1818"
+    
+    },
+    {
+      "name":"Indiana",
+      "abbr":"IN",
+      "capital":"Indianapolis",
+      "established": "December 11, 1816"
+    
+    },
+    {
+      "name":"Iowa",
+      "abbr":"IA",
+      "capital":"Des Moines",
+      "established": "December 28, 1846"
+    
+    },
+    {
+      "name":"Kansas",
+      "abbr":"KS",
+      "capital":"Topeka",
+      "established": "January 29, 1861"
+    
+    },
+    {
+      "name":"Kentucky",
+      "abbr":"KY",
+      "capital":"Franfort",
+      "established": "June 1, 1792"
+    
+    },
+    {
+      "name":"Louisiana",
+      "abbr":"LA",
+      "capital":"Baton Rouge",
+      "established": "April 30, 1812"
+    
+    },
+    {
+      "name":"Maine",
+      "abbr":"ME",
+      "capital":"Augusta",
+      "established": "March 15, 1820"
+    
+    },
+    {
+      "name":"Maryland",
+      "abbr":"MD",
+      "capital":"Annapolis",
+      "established": "April 28, 1788"
+    
+    },
+    {
+      "name":"Massachusetts",
+      "abbr":"MA",
+      "capital":"Boston",
+      "established": "February 6, 1788"
+    
+    },
+    {
+      "name":"Michigan",
+      "abbr":"MI",
+      "capital":"Lansing",
+      "established": "January 26, 1837"
+    
+    },
+    {
+      "name":"Minnesota",
+      "abbr":"MN",
+      "capital":"Saint Paul",
+      "established": "May 11, 1858"
+    
+    },
+    {
+      "name":"Mississippi",
+      "abbr":"MS",
+      "capital":"Jackson",
+      "established": "December 10, 1817"
+    
+    },
+    {
+      "name":"Missouri",
+      "abbr":"MO",
+      "capital":"Jefferson City",
+      "established": "August 10, 1821"
+    
+    },
+    {
+      "name":"Montana",
+      "abbr":"MT",
+      "capital":"Helena",
+      "established": "November 8, 1889"
+    
+    },
+    {
+      "name":"Nebraska",
+      "abbr":"NE",
+      "capital":"Lincoln",
+      "established": "March 1, 1867"
+    
+    },
+    {
+      "name":"Nevada",
+      "abbr":"NV",
+      "capital":"Carson City",
+      "established": "October 31, 1864"
+    
+    },
+    {
+      "name":"New Hampshire",
+      "abbr":"NH",
+      "capital":"Concord",
+      "established": "June 21, 1788"
+    
+    },
+    {
+      "name":"New Jersey",
+      "abbr":"NJ",
+      "capital":"Trenton",
+      "established": "December 18, 1787"
+    
+    },
+    {
+      "name":"New Mexico",
+      "abbr":"NM",
+      "capital":"Santa Fe",
+      "established": "January 6, 1912"
+    
+    },
+    {
+      "name":"New York",
+      "abbr":"NY",
+      "capital":"Albany",
+      "established": "July 26, 1788"
+    
+    },
+    {
+      "name":"North Carolina",
+      "abbr":"NC",
+      "capital":"Raleigh",
+      "established": "November 21, 1789"
+    
+    },
+    {
+      "name":"North Dakota",
+      "abbr":"ND",
+      "capital":"Bismarck",
+      "established": "November 2, 1889"
+    
+    },
+    {
+      "name":"Ohio",
+      "abbr":"OH",
+      "capital":"Columbus",
+      "established": "March 1, 1803"
+    
+    },
+    {
+      "name":"Oklahoma",
+      "abbr":"OK",
+      "capital":"Oklahoma City",
+      "established": "November 16, 1907"
+    
+    },
+    {
+      "name":"Oregon",
+      "abbr":"OR",
+      "capital":"Salem",
+      "established": "February 14, 1859"
+    
+    },
+    {
+      "name":"Pennsylvania",
+      "abbr":"PA",
+      "capital":"Harrisburg",
+      "established": "December 12, 1787"
+    
+    },
+    {
+      "name":"Rhode Island",
+      "abbr":"RI",
+      "capital":"Providence",
+      "established": "May 19, 1790"
+    
+    },
+    {
+      "name":"South Carolina",
+      "abbr":"SC",
+      "capital":"Columbia",
+      "established": "May 23, 1788"
+    
+    },
+    {
+      "name":"South Dakota",
+      "abbr":"SD",
+      "capital":"Pierre",
+      "established": "November 2, 1889"
+    
+    },
+    {
+      "name":"Tennessee",
+      "abbr":"TN",
+      "capital":"Nashville",
+      "established": "June 1, 1796"
+    
+    },
+    {
+      "name":"Texas",
+      "abbr":"TX",
+      "capital":"Austin",
+      "established": "December 29, 1845"
+    
+    },
+    {
+      "name":"Utah",
+      "abbr":"UT",
+      "capital":"Salt Lake City",
+      "established": "January 4, 1896"
+    
+    },
+    {
+      "name":"Vermont",
+      "abbr":"VT",
+      "capital":"Montpelier",
+      "established": "March 4, 1791"
+    
+    },
+    {
+      "name":"Virginia",
+      "abbr":"VA",
+      "capital":"Richmond",
+      "established": "June 25, 1788"
+    
+    },
+    {
+      "name":"Washington",
+      "abbr":"WA",
+      "capital":"Olympia",
+      "established": "November 11, 1889"
+    
+    },
+    {
+      "name":"West Virginia",
+      "abbr":"WV",
+      "capital":"Charleston",
+      "established": "June 20, 1863"
+    
+    },
+    {
+      "name":"Wisconsin",
+      "abbr":"WI",
+      "capital":"Madison",
+      "established": "May 29, 1848"
+    
+    },
+    {
+      "name":"Wyoming",
+      "abbr":"WY",
+      "capital":"Cheyenne",
+      "established": "July 10, 1890"
+    }
+  ]
+}
